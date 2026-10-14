@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: Kia-imagen-original.jpg
+Ruta del archivo: C:\IA_Gpo3H\VA_0079\U2-p1-act1-vs-0079\p1-act1-0079\img-original-0079\Kia-imagen-original.jpg
+Formato por extension: .JPG
+Tamano en bytes: 18692
+Tamano en KB: 18.25
+Tamano en MB: 0.0178
+
+DIMENSIONES
+-----------
+Ancho: 583 pixeles
+Alto: 343 pixeles
+Resolucion: 583 x 343
+Total de pixeles: 199,969
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 149.40
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 149.65
+Verde (G): 149.26
+Rojo (R): 149.27
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
